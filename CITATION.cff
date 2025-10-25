@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you refer to this article, please cite it as below."
+
+version: 1.0.0
+date-released: 2023-08-11
+title: "Soft Deletes as the responsibility of the Database"
+url: "https://writing.aeydr.dev/notes/postgres-delete-restore-as-table-property"
+authors:
+- given-names: "aeydr"
+
+preferred-citation:
+  type: article
+  journal: "The Architectural Decision Record"
+  authors:
+  - given-names: "aeydr"
+
+  title: "Soft Deletes as the responsibility of the Database"
+  month: 08
+  year: 2023
