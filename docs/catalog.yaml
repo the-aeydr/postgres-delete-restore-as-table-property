@@ -1,0 +1,14 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: postgres-delete-restore-as-table-property
+  description: Using triggers, key generators and a second table for delete & restore functionality
+  tags:
+    - postgres
+    - postgres
+  annotations:
+    displayName: Soft Deletes as the responsibility of the Database
+    github.com/project-slug: the-aeydr/postgres-delete-restore-as-table-property
+spec:
+  type: documentation
+  lifecycle: experimental
